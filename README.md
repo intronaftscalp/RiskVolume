@@ -10,6 +10,7 @@
 - **Выбор терминала в настройках для автовыставления**: ProfitForge, MetaScalp, TigerTrade, SURF, Vataga
 - **Режим позиции**: расчет докупок/сокращений для открытых позиций
 - **Мгновенный пересчет**: обновление по мере ввода
+- **Автокаскады**: Подсчет и выставление каскадных лимитных заявок для Терминала ProfitForge
 
 ## Доп. функции 🛠️
 - **Комиссии**: Maker/Taker с переключателем
@@ -24,19 +25,23 @@
 Для тех, кто часто меняет объемы будет полезно. При добавлении API ключей, выберите в брокере или на бирже вариант только для чтения для безопасности.
 
 ## 🖼️ Скриншоты:
-<img width="748" height="846" alt="image" src="https://github.com/user-attachments/assets/bb8eef7a-c983-4f06-bfa7-91a0294f152f" />
+<img width="804" height="994" alt="image" src="https://github.com/user-attachments/assets/a7f2799d-fd17-4b6a-8763-e8f34c198900" />
 
 /////////////////////////////////////////////////////////////////
 
-<img width="406" height="565" alt="image" src="https://github.com/user-attachments/assets/a37300e2-4bf8-455c-b5a7-ba6c47a22708" />
+<img width="814" height="991" alt="image" src="https://github.com/user-attachments/assets/24795428-6a47-49bd-91b1-4dc19f37a20a" />
 
 /////////////////////////////////////////////////////////////////
 
-<img width="408" height="568" alt="image" src="https://github.com/user-attachments/assets/e3a000f2-5540-4f26-9d29-d6c1b2a40030" />
+<img width="513" height="706" alt="image" src="https://github.com/user-attachments/assets/7322c296-0604-4760-b019-94bd896b410f" />
 
 /////////////////////////////////////////////////////////////////
 
-<img width="403" height="322" alt="image" src="https://github.com/user-attachments/assets/6627beda-785b-4e40-88fe-318f628a875b" />
+<img width="511" height="702" alt="image" src="https://github.com/user-attachments/assets/2ab64506-742b-41a1-9def-c7f38fcba659" />
+
+/////////////////////////////////////////////////////////////////
+
+<img width="512" height="408" alt="image" src="https://github.com/user-attachments/assets/5360b0ab-fe98-44ed-b973-fa3a310c8ef4" />
 
 
 ## 🔓 Open Source
@@ -45,10 +50,10 @@
 Любой может изучить архитектуру, проверить логику работы, предложить улучшения и внести вклад в развитие.
 
 🛡️ **Результат сканирования архива из Releases:** 
-https://www.virustotal.com/gui/file/63c154d239c93dfc1eab2bdcc431934df52943a5c7ec49410b2e406b7dfc7ca8?nocache=1
+https://www.virustotal.com/gui/file/673240c33ebe7fac7e1ec346a84ac8e1c05c91fcc1520d5e81aad6481da1bf1e?nocache=1
 
 ## Загрузка 💾
-Скачивание — через **GitHub Releases**: https://github.com/intronaft/RiskVolume/releases/tag/V1.6
+Скачивание — через **GitHub Releases**: https://github.com/intronaftscalp/RiskVolume/releases/tag/V1.6
 - Загрузите RiskVolume.zip
 Распакуйте архив и запустите .exe файл и можно пользоваться ✅
 
